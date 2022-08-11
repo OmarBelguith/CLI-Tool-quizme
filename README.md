@@ -40,7 +40,7 @@ quizme --add
 
 
 ## What's Next?
-- Load Questions from a free API: maybe quizme --fetch
-- Try to continue for next question if user wants to
-- Store a score for the user
-- make it as MCQ 
+- [ ] Load Questions from a free API: maybe quizme --fetch
+- [ ] Try to continue for next question if user wants to
+- [ ] Store a score for the user
+- [ ] make it as MCQ
