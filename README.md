@@ -28,3 +28,12 @@ quizme --add
   - Reading/Writing from the file system
 - Global script
 - self-evaluating or auto-evaluating
+
+## Data Structure
+
+* id: Integer
+* question: String
+* answer: String
+* created: String (date)
+* lastAsked: String (date)
+* lastAnsweredCorrect: Boolean

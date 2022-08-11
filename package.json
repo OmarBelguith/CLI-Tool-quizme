@@ -1,0 +1,24 @@
+{
+  "name": "quizme-cli-tool",
+  "version": "0.0.1",
+  "description": "An app for spaced repetition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarBelguith/CLI-Tool-quizme.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmarBelguith/CLI-Tool-quizme/issues"
+  },
+  "homepage": "https://github.com/OmarBelguith/CLI-Tool-quizme#readme",
+  "type": "module",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "inquirer": "^9.1.0"
+  }
+}
